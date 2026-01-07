@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.www.ecgadvocacia.adv.br/sitemap.xml
